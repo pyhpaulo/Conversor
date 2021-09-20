@@ -1,0 +1,45 @@
+#fundo {
+    background-color: #8bc6ec;
+    background-image: linear-gradient(135deg, #8bc6ec 0%, #9599e2 100%);
+  }
+  
+  #primeirofield {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+  }
+  
+  #segundofieldset {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+  }
+  
+  #terceirofieldset {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+  }
+  
+  .botao {
+    width: 20%;
+    background: black;
+    color: white;
+    text-transform: uppercase;
+    border-radius: 5px;
+  }
+  
+  .botao {
+    background-image: linear-gradient(
+      to right,
+      #2b5876 0%,
+      #4e4376 51%,
+      #2b5876 100%
+    );
+  
+  .botao:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+  
